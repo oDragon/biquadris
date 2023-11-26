@@ -1,4 +1,6 @@
 # biquadris
-A unique twist on the classic game of Tetris
+A unique twist on the classic game of Tetris.
 
-Developed with Ananya Ohrie and Iman Khan
+Code is PRIVATE due to academic integrity policies. Please contact larrychen2004@gmail.com.
+
+Developed with Ananya Ohrie and Iman Khan.
